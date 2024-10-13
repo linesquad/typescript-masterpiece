@@ -36,10 +36,6 @@
 
 // //* Type Casting
 
-// let frontEndMastersFounding = new Date("Jan 1, 2012");
-// let date1 = frontEndMastersFounding;
-// let date2 = frontEndMastersFounding as any;
-
 // const humid3 = 79 as number; //✔️ is 79 a number? If so, this is safe!
 
 // let date3 = "oops" as any as Date; //! TypeScript thinks this is a Date now, but it's really a string
